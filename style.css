@@ -27,8 +27,7 @@ a {
 header{
     box-sizing: border-box;
     height: 75px;
-    text-align: right;
-    padding: 0 1em 0 0;
+    padding: 0 0 0 1em;
     background-color:#0E3A2F;
 }
 h1, h2{
@@ -88,7 +87,8 @@ h3, h4{
 }
 footer{
     box-sizing: border-box;
+    text-align: right;
     height: 75px;
-    padding: 0 0 0 1em;
+    padding: 0 1em 0 0;
     background-color:#0E3A2F;
 }
